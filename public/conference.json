@@ -186,26 +186,39 @@
       }
     },
     {
-      "id": "sp_conf",
+      "id": "sp27_first",
       "name": "IEEE Symposium on Security and Privacy 2026",
       "rank": "A*",
-      "url": "https://www.ieee-security.org/TC/SP2026/index.html",
-      "location": "San Francisco, CA",
-      "estimated": true,
+      "url": "https://sp2027.ieee-security.org/cfpapers.html",
+      "location": "MONTREAL, CANADA",
+      "estimated": false,
       "deadlines": {
-        "abstract": "2026-05-29",
-        "paper": "2026-06-05",
-        "early_reject": "2026-07-21",
-        "rebuttal_start": "2026-08-18",
-        "revision_date": "2026-08-25",
-        "notification": "2026-09-09",
-        "camera_ready": "2026-10-17"
-      },
-      "event": {
-        "start": "2026-05-18",
-        "end": "2026-05-21"
+        "abstract": "2026-06-04",
+        "paper": "2026-06-11",
+        "early_reject": "2026-07-27",
+        "rebuttal_start": "2026-08-20",
+        "revision_date": "2026-09-04",
+        "notification": "2026-09-11",
+        "camera_ready": "2026-10-16"
       }
     },
+    {
+      "id": "sp27_second",
+      "name": "IEEE Symposium on Security and Privacy 2026",
+      "rank": "A*",
+      "url": "https://sp2027.ieee-security.org/cfpapers.html",
+      "location": "MONTREAL, CANADA",
+      "estimated": false,
+      "deadlines": {
+        "abstract": "2026-11-10",
+        "paper": "2026-11-17",
+        "early_reject": "2027-01-18",
+        "rebuttal_start": "2027-02-11",
+        "revision_date": "2027-02-26",
+        "notification": "2027-03-05",
+        "camera_ready": "2027-04-08"
+      }
+    },    
     {
       "id": "raid2026",
       "name": "RAID 2026",
@@ -247,6 +260,38 @@
         "notification": "2026-12-16",
         "camera_ready": "2027-01-06"
       }
-    }   
+    },
+    {
+      "id": "icissp2027_cycle1",
+      "name": "International Conference on Information Security and Privacy (ICISSP) 2027",
+      "rank": "c",
+      "url": "https://icissp.scitevents.org/CallForPapers.aspx",
+      "estimated": false,
+      "deadlines": {
+        "paper": "2026-09-15",
+        "notification": "2026-10-13",
+        "camera_ready": "2027-10-27"
+      },
+      "event": {
+        "start": "2027-02-22",
+        "end": "2027-02-24"
+      }
+    },
+    {
+      "id": "icissp2027_cycle2",
+      "name": "International Conference on Information Security and Privacy (ICISSP) 2027",
+      "rank": "c",
+      "url": "https://icissp.scitevents.org/CallForPapers.aspx",
+      "estimated": false,
+      "deadlines": {
+        "paper": "2026-11-22",
+        "notification": "2026-12-04",
+        "camera_ready": "2027-12-18"
+      },
+      "event": {
+        "start": "2027-02-22",
+        "end": "2027-02-24"
+      }
+    }              
   ]
 }
